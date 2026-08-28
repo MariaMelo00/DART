@@ -9,6 +9,6 @@ void main() {
   if(num % 5 == 0){
     print('O número $num É MÚLTIPLO DE 5!');
   }else{
-    print('O número $num NÃO É MÚTIPLO DE 5!');
+    print('O número $num NÃO É MÚTIPLO DE 5, pois sobra $divisao!');
   }
 }
